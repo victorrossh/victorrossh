@@ -1,4 +1,4 @@
-<p style=""color: #fff;text-align:center;">Welcome to my profile.</p>
+<h1 style="color: #fff; font-size: 2em;text-align:center;">Welcome to my profile.</h1>
 
 <div>
 
