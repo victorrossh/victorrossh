@@ -1,5 +1,3 @@
-##  Welcome to my profile.
-
 <div>
 
   <img src="https://komarev.com/ghpvc/?username=victorrossh&style=for-the-badge&color=1d1f21"/>
@@ -8,6 +6,8 @@
 </br>
 
 <div align="center">
+
+<p style="text-align:center;">Welcome to my profile.</p>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=victorrossh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
 
