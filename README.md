@@ -2,6 +2,10 @@
   <h1 style="color: white;">Welcome to my profile!</h1>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Victor+Ross(https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=openjdk&logoColor=white);++;Kali+Linux..&hearts"></a>
+</p>
+
 <div>
 
   <img src="https://komarev.com/ghpvc/?username=victorrossh&style=for-the-badge&color=1d1f21"/>
