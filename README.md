@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Victor+Ross;++;Kali+Linux..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Victor+Ross;++;Kali+Linux..&hearts;"></a>
 </p>
 
 <div>
@@ -23,6 +23,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-teste
-teste
-teste
+<br>
+
+- Computer Engineering student, currently in the final year of university.;
+- I aim to specialize in information security, focusing on the red team (ethical hacking / Pentest).;
+- Experience as a Linux system administrator and blue team member in cybersecurity.;
+- 
+<br>
