@@ -26,7 +26,7 @@
 <br>
 
 - Computer Engineering student, currently in the final year of university.;
-- I aim to specialize in information security, focusing on the red team (ethical hacking / Pentest).;
+- I aim to specialize in information security, focusing on the red team (Ethical Hacking / Pentest).;
 - Experience as a Linux system administrator and blue team member in cybersecurity.;
 - 
 <br>
