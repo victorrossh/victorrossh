@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Victor+Ross<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif;++;Kali+Linux..&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Victor+Ross;++;Kali+Linux..&hearts"></a>
 </p>
 
 <div>
@@ -20,3 +20,9 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrossh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
 
 </div>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+teste
+teste
+teste
