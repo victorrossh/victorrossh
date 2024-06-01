@@ -77,9 +77,32 @@
 
 <br>
 
+## Stack
+
+<div>
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    alt="Antonio-mongo" 
+    height="30" 
+    width="40" 
+    title="MongoDB"
+  />
+  <img 
+    src="./assets/postgres.svg" 
+    alt="Antonio-postgres" 
+    height="30" 
+    width="40" 
+    title="PostgresSQL"
+  />
+
+  />
+</div>
+<br>
+
 ## Contact
   <div> 
-    <a href = "victor.ross098@gmail.com">
+    <a href = "mailto:victor.ross098@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/victorrossh/" target="_blank">
@@ -88,3 +111,8 @@
   </div>
 <br>
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br
