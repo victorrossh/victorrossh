@@ -34,6 +34,8 @@
 - Computer Engineering student, currently in the final year of university.
 - I aim to specialize in cybersecurity, focusing on the red team (Ethical Hacking / Pentest).
 - Experience as a Linux system administrator and blue team member in cybersecurity.
+- I have knowledge in programming using C# and .NET languages.
+- Python for scripting and service automation.
 
 <br>
 
@@ -53,7 +55,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt= "WordPress" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt= "MySql" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt= "SqlLite" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-plain-wordmark.svg">
+  <img align="center" alt= "SqlLite" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
   <img align="center" alt= "PostgreSQL" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 
   
@@ -94,6 +96,7 @@
     <a href = "mailto:victor.ross098@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
+    <br>
     <a href="https://www.linkedin.com/in/victorrossh/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
