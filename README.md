@@ -54,7 +54,7 @@
   <img align="center" alt= "WordPress" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt= "MySql" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt= "SqlLite" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-plain-wordmark.svg">
-  <img align="center" alt= "PostgreSQL" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-plain-wordmark.svg">
+  <img align="center" alt= "PostgreSQL" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 
   
 </div>
